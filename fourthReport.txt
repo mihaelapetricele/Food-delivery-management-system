@@ -1,0 +1,8 @@
+The products ordered within a specified day with
+ The number of times they have been ordered
+
+Zucchini with Sour Cream and Dill  4.375 113 2 2 31 95.0 --- 1times
+Zucchini-Blossom Quesadillas  3.75 132 6 6 147 96.0 --- 1times
+Zucchini-Pecan Cake with Cream Cheese Frosting  4.375 453 6 6 315 16.0 --- 2times
+CompositeProduct: mancare 10.5 588 16 14 342 52.5 --- 1times
+salata de fructe 24.0 8 7 5 7 11.5 --- 2times

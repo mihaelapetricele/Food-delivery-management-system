@@ -1,0 +1,4 @@
+Order: OrderID= 2
+ClientID= 'client'
+timestampOrder= 2021-07-01T00:22:29.190086800
+price= 159.5
