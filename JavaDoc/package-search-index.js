@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ro.tuc.tp"},{"l":"ro.tuc.tp.business"},{"l":"ro.tuc.tp.data"},{"l":"ro.tuc.tp.presentation"}]
